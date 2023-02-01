@@ -20,6 +20,5 @@ setInterval(()=>{
     minuteOnes.style.transform = `rotateX(${minuteOnesAngle}deg)`;      
     minuteTens.style.transform = `rotateX(${minuteTensAngle}deg)`;   
     hourOnes.style.transform = `rotateX(${hourOnesAngle}deg)`;      
-    hourTens.style.transform = `rotateX(${hourTensAngel}deg)`; 
-    console.log(secondsOnesAngle); 
+    hourTens.style.transform = `rotateX(${hourTensAngel}deg)`;
 },1000)
